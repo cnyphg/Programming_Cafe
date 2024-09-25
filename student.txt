@@ -2,6 +2,6 @@ studentName|studentTP|gender|password|
 Nathan|TP012345|Male|nathan1234|
 August|TP000002|Male|august1234|
 John Weak|TP000001|Male|john1234|
-Jane|TP065652|Female|jane1234|
-Conny|TP071936|Female|conny1234|
+Jane|TP065432|Female|jane1234|
+Conny|TP078901|Female|conny1234|
 Conny|TP098765|Female|12345Conny|

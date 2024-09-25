@@ -1,0 +1,7 @@
+Session Code|Session Title|Day|Start Time|Location|Tutor Code|Tutor Name|
+PYP101|Python Programming|Saturday|0900am|C-01-01|T01|Albert|
+JAV102|Java Programming|Sunday|0900am|C-01-02|T02|Amad|
+CPL103|C Programming|Saturday|0200pm|C-01-03|T03|Steve|
+WEB104|Web Development|Sunday|0200pm|C-01-04|T04|Andrew|
+CSP105|C Sharp Programming|Monday|0700pm|C-01-05|T05|Au Kit|
+ABC106|ABC Programming|Wednesdyay|0500pm|C-02-03|T06|Apple|

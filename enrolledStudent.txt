@@ -1,0 +1,7 @@
+code|session_title|Day|StartTime|Location|TutorID|TutorName|StudentTP|StudentName|
+PYP101|Python Programming|Saturday|0900am|C-01-01|T01|Albert|TP065652|Jane|
+ABC106|ABC Programming|Wednesdyay|0500pm|C-02-03|T06|Apple|TP000001|John Weak|
+ABC106|ABC Programming|Wednesdyay|0500pm|C-02-03|T06|Apple|TP071936|Conny|
+AAA101|A Programming|Wednesday|0700am|C-01-01|T07|ABC|TP071936|Conny|
+PYP101|Python Programming|Saturday|0900am|C-01-01|T01|Albert|TP098765|Conny|
+ABC106|ABC Programming|Wednesdyay|0500pm|C-02-03|T06|Apple|TP098765|Conny|
